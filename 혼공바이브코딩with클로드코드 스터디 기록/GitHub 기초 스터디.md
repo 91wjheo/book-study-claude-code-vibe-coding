@@ -47,6 +47,7 @@ Git은 코드를 3개의 공간에서 관리한다.
          ↑ git pull / git clone                ↓ git push
                     [GitHub 원격 저장소]
 ```
+<img width="1082" height="826" alt="image" src="https://github.com/user-attachments/assets/84bdcb14-d0a2-4694-b1eb-a162a43da4c1" />
 
 ---
 
@@ -227,8 +228,13 @@ feature/login          ●──────────●───────
 bugfix/header          ●──────────────────────────┘
                        C5(헤더 버그 수정)         (PR → Merge)
 ```
+<img width="1082" height="658" alt="image" src="https://github.com/user-attachments/assets/b39f6bf1-fea0-4aa8-bcae-963a6d1380b7" />
 
 ---
+
+
+
+
 
 ### 브랜치 이름 짓는 관례
 
